@@ -9,7 +9,7 @@
 	a developer and whilst progressing the interests of the company.</p>
 		
 	<h3>Education</h3>
-	<img src="../app/images/forthare.jpg" alt="UFH photo" >
+	<img src="../app/images/forthare.jpg" class="img-responsive" alt="UFH photo" >
 	<p class="text-justify">Admire is a current holder of a honours degree in Computer Science
 	from the university of <a href="http://www.ufh.ac.za" target="_blank">Fort Hare</a>. He continues to advance his skills 
 	in programming through online learning platforms such as CodeSchool. Click 

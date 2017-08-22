@@ -2,12 +2,12 @@
 			<div class="col-sm-12">
 				<div class="row">
 					<div class="col-sm-2">
-						<img id="logo" src="../app/images/admire.jpg" alt="Admire Musimwa's photo" >
+						<img class="img-responsive" id="logo" src="../app/images/admire.jpg" alt="Admire Musimwa's photo" >
 					</div>
 					<div class="col-sm-10">
 						<h1><?php echo $username; ?></h1>
 						<p>The Course Badger App</p>
-						<img id="portfolio" src="../app/images/portfolio.jpg" alt="portfolio photo" >
+						<img class="img-responsive" id="portfolio" src="../app/images/portfolio.jpg" alt="portfolio photo" >
 					</div>
 				</div>
 				<div class="row">
