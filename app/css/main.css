@@ -156,7 +156,7 @@ main li{
 }
 /* adjust paragraph in main */
 .col-sm-8 p{
-	text-align: justify;
+	/*text-align: justify;*/
 	font-size: 15px;
 }
 
